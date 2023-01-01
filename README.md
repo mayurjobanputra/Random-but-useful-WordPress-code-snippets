@@ -1,3 +1,3 @@
 # Random but ALSO useful WordPress Code Snippets
 
-get_login_count_memberpress.php - Gets the login count of the current user and displays it
+https://github.com/mayurjobanputra/Random-but-useful-WordPress-code-snippets/commit/bcf07c984daf69447c67501a4d1b5284226421dc - Gets the login count of the current user and displays it
