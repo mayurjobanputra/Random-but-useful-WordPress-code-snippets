@@ -1,1 +1,1 @@
-# Random-but-useful-WordPress-code-snippets
+# Random but ALSO useful WordPress Code Snippets
